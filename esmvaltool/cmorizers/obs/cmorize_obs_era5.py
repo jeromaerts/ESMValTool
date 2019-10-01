@@ -3,6 +3,9 @@
 Tier
     Tier 3: restricted datasets (i.e., dataset which requires a registration
  to be retrieved or provided upon request to the respective contact or PI).
+ 
+ Filename
+    Format: era5_<var>_<year>_hourly.nc
 
 Source
     https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-pressure-levels
